@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMain">#56E646</color>
+    <color name="colorW">#F2F2F2</color>
+    <color name="colorWD">#e1e1e1</color>
+    <color name="colorG">#DEDEDE</color>
+    <color name="colorText">#C3C3C3</color>
+    <color name="colorX">#c1c1c1</color>
+    <color name="colorDG">#636363</color>
+    <color name="colorR">#d90e00</color>
+</resources>
